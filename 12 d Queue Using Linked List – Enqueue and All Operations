@@ -21,7 +21,7 @@ queue = []
 queue.append('a')
 queue.append('b')
 queue.append('c')
-queue.append('d')
+queue.append('d') 
 
 # Display the initial queue
 print('Initial Queue:', queue)
