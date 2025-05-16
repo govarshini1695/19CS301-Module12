@@ -6,7 +6,7 @@ To write a Python program to insert 3 elements into a queue and display each ele
  
 ## Algorithm
 
-1. Start  
+1. Start   
 2. Create a queue  
 3. Append elements to the queue  
 4. Use a loop to print each element and its index  
