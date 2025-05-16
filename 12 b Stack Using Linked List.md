@@ -17,22 +17,19 @@ To write a Python program to insert 3 elements into a stack and display the inde
 
 ```python
 stack = []
-
-# Push elements into the stack
 stack.append('a')
 stack.append('b')
 stack.append('c')
-
-# Display the initial stack
 print('Initial stack:', stack)
-
-# Print index and element
 for i in range(len(stack)):
     print(i, stack[i])
 ```
 
 ## Output
+![image](https://github.com/user-attachments/assets/d32e65e5-3a5d-4dbc-88c2-e675ecac5563)
 
 
 ## Result
+Thus the python program to insert 3 elements in stack and display the index values of each element stored in stack is executed successfully.
+
 
