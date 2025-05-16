@@ -13,7 +13,7 @@ To write a Python program to insert 3 elements into a queue and display each ele
 5. Stop
 
 ## Program
-
+ 
 ```python
 queue = []
 
@@ -26,7 +26,6 @@ print("Initial queue:", queue)
 for i in range(len(queue)):
     print(i, queue[i])
 
-```
 
 ## OUTPUT
 
