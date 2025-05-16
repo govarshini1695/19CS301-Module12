@@ -17,20 +17,20 @@ To write a Python program to insert 3 elements into a queue and display each ele
 ```python
 queue = []
 
-# Enqueue elements into the queue
 queue.append("a")
 queue.append("b")
 queue.append("c")
 
-# Display the initial queue
 print("Initial queue:", queue)
 
-# Display index and element
 for i in range(len(queue)):
     print(i, queue[i])
+
 ```
 
 ## OUTPUT
 
 
+
 ## RESULT
+Thus the python program to insert 3 elements into a queue and display each element with its index is executed successfully.
