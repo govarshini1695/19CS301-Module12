@@ -19,29 +19,22 @@ To write a Python program to type and display the elements pushed into a stack u
 
 ```python
 stack = []
-
-# Push elements into the stack
 stack.append('a')
 stack.append('b')
 stack.append('c')
 
-# Display the stack
 print("Stack after elements are pushed:")
 print(stack)
 
-# Peek the top element
-print("Top element (Peek):", stack[-1])
-
-# Pop the top element
 popped_element = stack.pop()
-print("Popped element:", popped_element)
+print("Deleting the last element inserted:", popped_element)
 
-# Display the stack after pop
-print("Stack after pop:")
+print("Stack after elements are popped:")
 print(stack)
 ```
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/51d30dec-a615-4cfa-bcdf-aaf708cfe9bb)
 
 ## RESULT
-
+ Thus the python program to execute the stack is done successfully.
 
