@@ -17,9 +17,9 @@ To write a Python program to insert 3 elements into a queue and display each ele
 ```python
 queue = []
 
-queue.append("a")
-queue.append("b")
-queue.append("c")
+queue.append('a')
+queue.append('b')
+queue.append('c')
 
 print("Initial queue:", queue)
 
@@ -29,6 +29,7 @@ for i in range(len(queue)):
 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/7b424ff8-2126-43f2-9bc8-7b1f1853151c)
 
 
 ## RESULT
