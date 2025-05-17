@@ -25,12 +25,13 @@ queue.append('d')
 print('Initial Queue:', queue)
 
 print("\nElement at the front of the queue is .... ", queue[0])
-print("\nElement at the rear of the queue is .... ", queue[-1])
+print("\nElement at the rear of the queue is .... ", queue[3])
 
 ```
 
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/0becd7ef-cde7-43e2-be5f-d017d714d5e0)
 
 
 ## RESULT
