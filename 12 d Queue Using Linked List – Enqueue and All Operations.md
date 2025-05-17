@@ -5,7 +5,7 @@
 To write a Python program to add 4 elements to a queue and print the elements present at the front and rear of the queue. 
 
 ## Algorithm
- 
+  
 1. Start  
 2. Create a queue  
 3. Append elements to the queue  
