@@ -1,6 +1,6 @@
 # 12 c Queue Using Linked List – Display, Peek, and Pop
 
-## Aim
+## Aim 
 
 To write a Python program to insert 3 elements into a queue and display each element with its index.
  
